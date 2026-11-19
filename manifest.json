@@ -1,6 +1,6 @@
 {
-  "version": "v1.2.5",
-  "notes": "新增巴法云 MQTT 远程上报查看；上报配置对普通用户开放；WiFi 断线日志补充信道与堆余量。",
-  "url": "https://lufu3726.github.io/kmin-bms-ota/firmware_v1.2.5.bin",
-  "size": 2132400
+  "version": "v1.2.6",
+  "notes": "加固云端 OTA：下载连接失败自动重试；升级改为后台异步执行，网页轮询进度与阶段；下载前暂停 MQTT 上报释放内存；支持 HTTP 明文镜像；修复慢下载被网页超时误判为请求超时。",
+  "url": "https://lufu3726.github.io/kmin-bms-ota/firmware_v1.2.6.bin",
+  "size": 2133840
 }

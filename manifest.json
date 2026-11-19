@@ -1,6 +1,6 @@
 {
-  "version": "v1.2.0",
-  "notes": "云端 OTA 测试版",
-  "url": "https://lufu3726.github.io/kmin-bms-ota/firmware_v1.2.0.bin",
-  "size": 2106800
+  "version": "v1.2.1",
+  "notes": "首个云端 OTA 正式包：修复 STA 联网重连与 HTTPS 清单拉取，版本号升至 v1.2.1",
+  "url": "https://lufu3726.github.io/kmin-bms-ota/firmware_v1.2.1.bin",
+  "size": 2121520
 }
